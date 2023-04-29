@@ -30,4 +30,5 @@ The attached file with python contains various function namely :
 NOTE : 
 1. This function,{parametric_solution()}, finds out the column matrices correponding to the free variable by inverting the sign of entries in the rref matrix.And then, it makes the entry=1 in the matrix correspond to the free variable no.
 2. All the functions are written synchronously because they are used one after another.
+3. There is no GUI attached to this code.Therefore, changes have to be made in the code itself in main function. Comments have been added in the code for the same.
 
